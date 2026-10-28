@@ -106,10 +106,6 @@ def build(weeks, palette):
                  f'keyPoints="0;0;1;1;0;0" keyTimes="{keys}"><mpath xlink:href="#p"/></animateMotion></rect>')
     o.append("</g>")
 
-    # chrysalis on the last cell
-    o.append(f'<ellipse cx="{xl:.1f}" cy="{yl:.1f}" rx="4.5" ry="8.5" fill="#8b6f47" stroke="#5a4630">'
-             f'{fade(end, T_FLY0 + 0.2)}</ellipse>')
-
     # butterfly: top view; flies left while zooming about its upper wing's centre
     o.append(f'<g>{fade(T_FLY0, T_ZOOM)}')
     o.append('<g>' + kf("transform", [(T_FLY0, f"{xl:.1f},{yl:.1f}"), (T_ZOOM, f"{w / 2},{mid}")],
