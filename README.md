@@ -53,6 +53,17 @@
 | [beautysolar-icon-theme](https://github.com/musqz/beautysolar-icon-theme) | BeautySolar icon theme, based on BeautyLine (Shell) | ![](https://img.shields.io/github/stars/musqz/beautysolar-icon-theme?style=flat&label=&cacheSeconds=3600) |
 | [betterlockscreen-theming](https://github.com/musqz/betterlockscreen-theming) | betterlockscreen theming (Shell) | ![](https://img.shields.io/github/stars/musqz/betterlockscreen-theming?style=flat&label=&cacheSeconds=3600) |
 
+## `$ git log --graph`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musqz/musqz/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/musqz/musqz/output/github-snake.svg">
+</picture>
+
+</div>
+
 ## `$ git remote -v`
 
 Contributing upstream: [skippy-xd](https://github.com/felixfung/skippy-xd).
