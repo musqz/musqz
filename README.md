@@ -4,10 +4,6 @@
 
 <img src="assets/globe.svg" alt="rotating word globe" width="560">
 
-**Arch/Mabox tools: security, desktop utilities, VMs**
-
-<img src="assets/term-left.svg" alt="ls ~/projects" width="49%"> <img src="assets/term-right.svg" alt="cat bio.txt" width="49%">
-
 </div>
 
 ## `$ cat ~/.config/skills.list`
