@@ -25,8 +25,8 @@
 | **security/** | | |
 | <img src="assets/icons/archcanary.png" width="20" align="absmiddle"> [archcanary](https://github.com/musqz/archcanary) | Layered AUR supply-chain scanner with systemd, eBPF and kmod auditing (Shell) | ![](https://img.shields.io/github/stars/musqz/archcanary?style=flat&label=&cacheSeconds=3600) |
 | **mabox/** | | |
-| <img src="assets/icons/mabox.png" width="20" align="absmiddle"> [mabox-snapshot](https://github.com/musqz/mabox-snapshot) | Create an ISO snapshot of a Mabox system (Python) | ![](https://img.shields.io/github/stars/musqz/mabox-snapshot?style=flat&label=&cacheSeconds=3600) |
-| <img src="assets/icons/mabox.png" width="20" align="absmiddle"> [mabox-persistence-usb](https://github.com/musqz/mabox-persistence-usb) | Create a persistence USB from a mabox-snapshot ISO (Python) | ![](https://img.shields.io/github/stars/musqz/mabox-persistence-usb?style=flat&label=&cacheSeconds=3600) |
+| <img src="assets/icons/mabox-green.png" width="20" align="absmiddle"> [mabox-snapshot](https://github.com/musqz/mabox-snapshot) | Create an ISO snapshot of a Mabox system (Python) | ![](https://img.shields.io/github/stars/musqz/mabox-snapshot?style=flat&label=&cacheSeconds=3600) |
+| <img src="assets/icons/mabox-green.png" width="20" align="absmiddle"> [mabox-persistence-usb](https://github.com/musqz/mabox-persistence-usb) | Create a persistence USB from a mabox-snapshot ISO (Python) | ![](https://img.shields.io/github/stars/musqz/mabox-persistence-usb?style=flat&label=&cacheSeconds=3600) |
 | <img src="assets/icons/mabox-ce.png" width="20" align="absmiddle"> [mb-status-ce](https://github.com/musqz/mb-status-ce) | mb-status community edition (Shell) | ![](https://img.shields.io/github/stars/musqz/mb-status-ce?style=flat&label=&cacheSeconds=3600) |
 | <img src="assets/icons/mabox-ce.png" width="20" align="absmiddle"> [mabox-noctalia-ce](https://github.com/musqz/mabox-noctalia-ce) | Mabox Noctalia dots (Shell) | ![](https://img.shields.io/github/stars/musqz/mabox-noctalia-ce?style=flat&label=&cacheSeconds=3600) |
 | **vm/** | | |
