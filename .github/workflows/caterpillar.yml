@@ -1,0 +1,39 @@
+name: caterpillar
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/caterpillar.yml
+      - tools/gen_caterpillar.py
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch contribution calendar
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api graphql -F login="${{ github.repository_owner }}" \
+            -f query='query($login:String!){user(login:$login){contributionsCollection{contributionCalendar{weeks{contributionDays{contributionLevel weekday}}}}}}' \
+            --jq '.data.user.contributionsCollection.contributionCalendar.weeks' > weeks.json
+
+      - name: Generate SVGs
+        run: python3 tools/gen_caterpillar.py weeks.json dist
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
