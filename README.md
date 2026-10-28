@@ -1,6 +1,6 @@
 <div align="center">
 
-# musqz@linux
+# musqz
 
 <img src="assets/globe.svg" alt="rotating word globe" width="560">
 
