@@ -195,5 +195,9 @@
 <animate attributeName="opacity" dur="24s" repeatCount="indefinite" values="0.14;0.06;0.01;0.00;0.03;0.10;0.20;0.34;0.49;0.52;0.53;0.54;0.54;0.54;0.54;0.53;0.47;0.32;0.18;0.08;0.02;0.00;0.03;0.09;0.17;0.26;0.35;0.35;0.34;0.34;0.33;0.33;0.34;0.34;0.32;0.22;0.14"/>
 <animate attributeName="font-size" dur="24s" repeatCount="indefinite" values="12.5;12.6;12.7;12.9;13.0;13.2;13.3;13.5;13.6;13.7;13.8;13.8;13.9;13.9;13.9;13.8;13.7;13.7;13.5;13.4;13.3;13.1;13.0;12.8;12.7;12.5;12.4;12.3;12.2;12.2;12.1;12.1;12.1;12.2;12.3;12.3;12.5"/>
 </text>
-<text text-anchor="middle" x="280" y="187" fill="#7ee787" font-size="22" font-weight="bold" stroke="#0d1117" stroke-width="8" stroke-linejoin="round" paint-order="stroke">archcanary</text>
+<text text-anchor="middle" fill="#7ee787" font-weight="bold" stroke="#0d1117" stroke-width="5" stroke-linejoin="round" paint-order="stroke" x="280.0" y="187">archcanary
+<animate attributeName="x" dur="24s" repeatCount="indefinite" values="280.0;256.6;233.8;212.5;193.2;176.6;163.1;153.1;147.1;145.0;147.1;153.1;163.1;176.6;193.2;212.5;233.8;256.6;280.0;303.4;326.2;347.5;366.8;383.4;396.9;406.9;412.9;415.0;412.9;406.9;396.9;383.4;366.8;347.5;326.2;303.4;280.0"/>
+<animate attributeName="opacity" dur="24s" repeatCount="indefinite" values="1.00;0.99;0.97;0.93;0.88;0.82;0.75;0.68;0.61;0.55;0.49;0.43;0.39;0.35;0.33;0.31;0.30;0.30;0.30;0.30;0.30;0.31;0.33;0.35;0.39;0.43;0.49;0.55;0.61;0.68;0.75;0.82;0.88;0.93;0.97;0.99;1.00"/>
+<animate attributeName="font-size" dur="24s" repeatCount="indefinite" values="22.0;21.9;21.7;21.3;20.8;20.2;19.5;18.7;17.9;17.0;16.1;15.3;14.5;13.8;13.2;12.7;12.3;12.1;12.0;12.1;12.3;12.7;13.2;13.8;14.5;15.3;16.1;17.0;17.9;18.7;19.5;20.2;20.8;21.3;21.7;21.9;22.0"/>
+</text>
 </svg>
