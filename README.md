@@ -6,8 +6,6 @@
 
 </div>
 
-## `$ cat ~/.config/skills.list`
-
 <div align="center">
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
@@ -21,8 +19,6 @@
 ![eBPF](https://img.shields.io/badge/eBPF-F2A900?style=flat)
 
 </div>
-
-## `$ ls projects/`
 
 | Project | Description | Stars |
 |---|---|---|
@@ -49,6 +45,7 @@
 | [beautysolar-icon-theme](https://github.com/musqz/beautysolar-icon-theme) | BeautySolar icon theme, based on BeautyLine (Shell) | ![](https://img.shields.io/github/stars/musqz/beautysolar-icon-theme?style=flat&label=&cacheSeconds=3600) |
 | [betterlockscreen-theming](https://github.com/musqz/betterlockscreen-theming) | betterlockscreen theming (Shell) | ![](https://img.shields.io/github/stars/musqz/betterlockscreen-theming?style=flat&label=&cacheSeconds=3600) |
 
-## `$ git remote -v`
 
-Contributing upstream: [skippy-xd](https://github.com/felixfung/skippy-xd).
+### Contributing upstream: 
+
+- [skippy-xd](https://github.com/felixfung/skippy-xd).
