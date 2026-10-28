@@ -6,11 +6,13 @@
 
 **Arch/Mabox tools: security, desktop utilities, VMs**
 
-<img src="assets/term-left.svg" alt="ls ~/projects" width="440"> <img src="assets/term-right.svg" alt="cat bio.txt" width="440">
+<img src="assets/term-left.svg" alt="ls ~/projects" width="49%"> <img src="assets/term-right.svg" alt="cat bio.txt" width="49%">
 
 </div>
 
 ## `$ cat ~/.config/skills.list`
+
+<div align="center">
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,6 +23,8 @@
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![systemd](https://img.shields.io/badge/systemd-FFFFFF?style=flat&logo=systemd&logoColor=black)
 ![eBPF](https://img.shields.io/badge/eBPF-F2A900?style=flat)
+
+</div>
 
 ## `$ ls projects/`
 
