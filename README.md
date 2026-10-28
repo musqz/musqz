@@ -55,4 +55,4 @@
 
 ## `$ git remote -v`
 
-Contributing upstream: skippy-xd, labwc, quickemu, noctalia.
+Contributing upstream: [skippy-xd](https://github.com/felixfung/skippy-xd).
