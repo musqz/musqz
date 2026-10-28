@@ -28,39 +28,22 @@
 
 ## `$ ls projects/`
 
-### security/
-
 | Project | Description | Stars |
 |---|---|---|
+| **security/** | | |
 | [archcanary](https://github.com/musqz/archcanary) | Layered AUR supply-chain scanner with systemd, eBPF and kmod auditing (Shell) | ![](https://img.shields.io/github/stars/musqz/archcanary?style=flat&label=&cacheSeconds=3600) |
-
-### mabox/
-
-| Project | Description | Stars |
-|---|---|---|
+| **mabox/** | | |
 | [mabox-snapshot](https://github.com/musqz/mabox-snapshot) | Create an ISO snapshot of a Mabox system (Python) | ![](https://img.shields.io/github/stars/musqz/mabox-snapshot?style=flat&label=&cacheSeconds=3600) |
 | [mabox-persistence-usb](https://github.com/musqz/mabox-persistence-usb) | Create a persistence USB from a mabox-snapshot ISO (Python) | ![](https://img.shields.io/github/stars/musqz/mabox-persistence-usb?style=flat&label=&cacheSeconds=3600) |
 | [mb-status-ce](https://github.com/musqz/mb-status-ce) | mb-status community edition (Shell) | ![](https://img.shields.io/github/stars/musqz/mb-status-ce?style=flat&label=&cacheSeconds=3600) |
 | [mabox-noctalia-ce](https://github.com/musqz/mabox-noctalia-ce) | Mabox Noctalia dots (Shell) | ![](https://img.shields.io/github/stars/musqz/mabox-noctalia-ce?style=flat&label=&cacheSeconds=3600) |
-
-### vm/
-
-| Project | Description | Stars |
-|---|---|---|
+| **vm/** | | |
 | [quickbox](https://github.com/musqz/quickbox) | GTK GUI for quickemu VMs: migration, snapshots, working dir (Python) | ![](https://img.shields.io/github/stars/musqz/quickbox?style=flat&label=&cacheSeconds=3600) |
 | [quickbox-qt](https://github.com/musqz/quickbox-qt) | Qt6 GUI for quickemu (Python) | ![](https://img.shields.io/github/stars/musqz/quickbox-qt?style=flat&label=&cacheSeconds=3600) |
-
-### forums/
-
-| Project | Description | Stars |
-|---|---|---|
+| **forums/** | | |
 | [forum-scout](https://github.com/musqz/forum-scout) | GTK4 search tool for Arch-based forums and wikis (Python) | ![](https://img.shields.io/github/stars/musqz/forum-scout?style=flat&label=&cacheSeconds=3600) |
 | [forum-scout-qt](https://github.com/musqz/forum-scout-qt) | PyQt6 port of Forum Scout (Python) | ![](https://img.shields.io/github/stars/musqz/forum-scout-qt?style=flat&label=&cacheSeconds=3600) |
-
-### desktop/
-
-| Project | Description | Stars |
-|---|---|---|
+| **desktop/** | | |
 | [tabdock](https://github.com/musqz/tabdock) | X11/Wayland dock for Firefox-family browser tabs (Python) | ![](https://img.shields.io/github/stars/musqz/tabdock?style=flat&label=&cacheSeconds=3600) |
 | [fittsmon-gui](https://github.com/musqz/fittsmon-gui) | GUI for FittsMon hot edges, X11 (Python) | ![](https://img.shields.io/github/stars/musqz/fittsmon-gui?style=flat&label=&cacheSeconds=3600) |
 | [fittsmon-wl-gui](https://github.com/musqz/fittsmon-wl-gui) | Wayland variant of fittsmon-gui (Python) | ![](https://img.shields.io/github/stars/musqz/fittsmon-wl-gui?style=flat&label=&cacheSeconds=3600) |
