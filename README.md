@@ -2,7 +2,7 @@
 
 # musqz
 
-<img src="assets/globe.svg" alt="rotating word globe" width="560">
+<img src="assets/globe.svg?v=2" alt="rotating word globe" width="560">
 
 </div>
 
