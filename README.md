@@ -43,7 +43,6 @@
 | <img src="assets/icons/skippy-wl.png" width="20" align="absmiddle"> [skippy-wl](https://github.com/musqz/skippy-wl) | Expose tool like skippy-xd, for Wayland (C) | ![](https://img.shields.io/github/stars/musqz/skippy-wl?style=flat&label=&cacheSeconds=3600) |
 | <img src="assets/icons/gparted-launch.png" width="20" align="absmiddle"> [gparted-launch](https://github.com/musqz/gparted-launch) | Pick a drive, then open it in GParted (Shell) | ![](https://img.shields.io/github/stars/musqz/gparted-launch?style=flat&label=&cacheSeconds=3600) |
 | <img src="assets/icons/beautysolar.png" width="20" align="absmiddle"> [beautysolar-icon-theme](https://github.com/musqz/beautysolar-icon-theme) | BeautySolar icon theme, based on BeautyLine (Shell) | ![](https://img.shields.io/github/stars/musqz/beautysolar-icon-theme?style=flat&label=&cacheSeconds=3600) |
-| <img src="assets/icons/betterlockscreen.png" width="20" align="absmiddle"> [betterlockscreen-theming](https://github.com/musqz/betterlockscreen-theming) | betterlockscreen theming (Shell) | ![](https://img.shields.io/github/stars/musqz/betterlockscreen-theming?style=flat&label=&cacheSeconds=3600) |
 
 
 ### Contributing upstream: 
