@@ -47,4 +47,4 @@
 
 ### Contributing upstream: 
 
-- [skippy-xd](https://github.com/felixfung/skippy-xd).
+- [skippy-xd](https://github.com/felixfung/skippy-xd)
